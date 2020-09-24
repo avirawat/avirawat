@@ -8,7 +8,7 @@ Personal site : https://avirawat.github.io/Avi-Portfolio/
 📌My Digital Garden💻
 
 📝I write regular blog post on ayodhya(Ayodhya-Darshan). Link here: https://ayodhya-darshan.blogspot.com/  ____________________                         
-💢I developed a site(Labour Welfare)for labours/workers. Link : https://labour-welfare.000webhostapp.com/ 
+💢I developed a site (Labour Welfare) for labours/workers where contractors will rovide job. Link : https://labour-welfare.000webhostapp.com/ 
 <!--
 **avirawat/avirawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
