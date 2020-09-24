@@ -21,4 +21,7 @@
       ※Front-end-development using HTML/CSS/JS/React.js
       ※Back-end-development using PHP with dataBase MyPhpSql
    
-📫 How to reach me: 7991237314
+📫 How to reach me: 
+        
+        📱 7991237314
+        📧 avirawat1048@gmail.com
