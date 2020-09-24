@@ -20,6 +20,7 @@
 
       ※Front-end-development using HTML/CSS/JS/React.js
       ※Back-end-development using PHP with dataBase MyPhpSql
+      ※Problem solving and Data structure
    
 📫 How to reach me: 
         
