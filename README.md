@@ -17,6 +17,7 @@
 📌 I’m currently learning React.js
 
 💬 Ask me about
-   
+   ※Front-end-development using HTML/CSS/JS/React.js
+   ※Back-end-development using PHP with dataBase MyPhpSql
 📫 How to reach me: 
 ⚡ Fun fact: ...
