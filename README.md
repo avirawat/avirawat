@@ -7,7 +7,7 @@
 
 📌My Digital Garden💻
 
-   📝I write regular blog post on ayodhya(Ayodhya-Darshan). Link here: https://ayodhya-darshan.blogspot.com/  ____________________                         
+   📝I write regular blog post on Ayodhya(Ayodhya-Darshan). Link here: https://ayodhya-darshan.blogspot.com/  ____________________                         
    💢I developed a site (Labour Welfare) for labours/workers where contractors will provide job to identified labours . Link below 👇: https://labour-welfare.000webhostapp.com/ 
 
    💫Developed a Basic React site for checking Weather in your city. Link here: https://eloquent-fermat-748180.netlify.app/
