@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi👋 I am Avinash Rawat looking for Internship in Front-end-development(Web Developer).I have passion for learning and sharing my knowledge as publicly as possible.
+💻Get in touch
 
 <!--
 **avirawat/avirawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
