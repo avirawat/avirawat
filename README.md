@@ -26,3 +26,14 @@
         
         📱 7991237314
         📧 avirawat1048@gmail.com
+        
+ <p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=avirawat&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=avirawat&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avirawat&layout=compact" />
+</div>
