@@ -18,8 +18,8 @@
 
 💬 Ask me about
 
-      ※Front-end-development using HTML/CSS/JS/React.js
-      ※Back-end-development using PHP with dataBase MyPhpSql
+      ※Front-end-development using HTML/CSS/JS/Angular.js
+      ※Back-end-development using PHP && Java Spring Boot with Hibernate
       ※Problem solving and Data structure
    
 📫 How to reach me: 
