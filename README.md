@@ -1,4 +1,4 @@
-📌 Hi👋 I am Avinash Rawat looking for Internship in Front-end-development (Web Developer) . I have passion for learning and sharing my knowledge as publicly as possible.
+📌 Hi👋 I am Avinash Rawat(Web Developer) . I have passion for learning and sharing my knowledge as publicly as possible.
 
 📌 Get in touch💻
 
@@ -12,9 +12,9 @@
 
    💫Developed a Basic React site for checking Weather in Indian cities. Link here: https://eloquent-fermat-748180.netlify.app/
 
-📌 I’m currently working on Farming web Portal project.
+📌 I Have completed Many Projects with Java Spring Boot with Hibernate
 
-📌 I’m currently learning React.js
+📌 I’m currently learning Angular Js
 
 💬 Ask me about
 
